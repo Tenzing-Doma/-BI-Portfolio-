@@ -4,7 +4,7 @@
 This project involves creating an interactive sales performance dashboard to analyze sales trends and key metrics.
 
 ## Data Source
-The data used in this project was sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/roopacalistus/superstore)).
+The data used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/roopacalistus/superstore).
 
 ## Tools Used
 - SQL for data extraction
